@@ -2,6 +2,7 @@ collection:
   - https://iiif.archive.org/iiif/city-council-audio-recordings-1970-2012/collection.json
 metadata:
   - subject
+  - topics
   - date
   - mediatype
   - creator
