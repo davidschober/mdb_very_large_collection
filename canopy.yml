@@ -1,5 +1,5 @@
 collection:
-  - https://iiif.archive.org/iiif/middleburycollege/collection.json
+  - https://iiif.archive.org/iiif/city-council-audio-recordings-1970-2012/collection.json
 metadata:
   - subject
   - date
